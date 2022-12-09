@@ -8,12 +8,12 @@ Title: Github Tutorial<br>
 
 Author: Caroline Kirby<br>
 
-Summary: This repository is going to be dedicated to providing a thorough tutorial on how to use Github. If your a beginner, don' worry! This tutorial will guide you through everything Github has to offer.<br>
+Summary: This repository is going to be dedicated to providing a thorough tutorial on how to understand binary numbers.<br>
 
-Target Audience: Beginners/College students who use Github every once in a while for a class<br>
+Target Audience: Beginners/College students who need to understand basic binary conversions.<br>
 </p1>
 
-Click this link to go to the tutorial! [Tutorial!](tutorial.md)<br>
+<p2> I'll guide you through binary to decimal and decimal to binary.</p2><br>
 
 
 </body>
